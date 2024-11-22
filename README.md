@@ -14,5 +14,5 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone <URL>
+   git clone <https://github.com/NikitosZ112/lib_test>
    cd library_management
